@@ -1,2 +1,2 @@
 # call_for_me
-this project is backend project about backend that allow to call api anything for frontend if frontend have some problem about cors when call some api
+This project is backend project about backend that allow to call api anything for frontend like "Proxy Server" if frontend have some problem about cors when call some api
